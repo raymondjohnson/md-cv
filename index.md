@@ -90,39 +90,53 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 -->
 ## Presentations
 
-### Tutorials
+### Conference sessions
 
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
+`2016` **Johnson, R.**, Peck, F., & Webb, D. C. (2016, April). *Modeling Your Way to Understanding with Realistic Mathematics Education.* Presentation at the Annual Meeting of the National Council of Teachers of Mathematics, San Francisco, CA.
 
-### Talks
+`2016` **Johnson, R.**, Peck, F., Briggs, D. C., & Alzen, J. (2016, April). *A Unified Framework of Teachers' Conceptions of Learning and Assessment.* Interactive paper presentation at the Research Conference of the National Council of Teachers of Mathematics, San Francisco, CA.
 
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
+`2015` Bejarano, L., Amidon, T., **Johnson, R.**, McGarry, A., & Turner, C. (2015, September). *Better Teaching Through Online Collaboration: Twitter, Blogs, and the Web.* Invited presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.2082655}{http://dx.doi.org/10.6084/m9.figshare.2082655>
 
-MRC IGMM research seminars and section meetings (_various_)
+`2015` **Johnson, R.**, Peck, F., Campbell, W., Grover, R., Miller, S., Scroggins, A., & Webb, D. C. (2015, September). *An Orientation to Realistic Mathematics Education.* Opening plenary at the 5th International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082622}{http://dx.doi.org/10.6084/m9.figshare.2082622>
 
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
+`2015` Furtak, E. M., Cartun, A., Kizil, R. C., Chrzanowski, A. M., Grover, R., Heredia, S. C., **Johnson, R.**, McClelland, A., White, K. H. O. (2015, April). *Toward a Participation Metaphor for Formative Assessment.* Roundtable presentation at the Annual Meeting of the American Educational Research Association, Chicago, IL. <http://tinyurl.com/lkjahyu>
 
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
+`2015` **Johnson, R.**, Martin, C., & Sauer, R. (2015, April). *Supporting Algebra 1 Teachers' Implementation of the CCSS: A Research + Practice Partnership.* Presentation at the Annual Conference of the National Council of Supervisors of Mathematics, Boston, MA. <http://dx.doi.org/10.6084/m9.figshare.1378968>
+
+`2014` Wray, J., Ani, K., Black, A., Hunter, C. **Johnson, R.**, Meyer, D., & Nowak, K. (2014, April). *Teachers Leveraging Technology in the Classroom.* Invited panelist for the Annual Meeting of the National Council of Teachers of Mathematics, New Orleans, LA.
+
+`2014` **Johnson, R.** (2014, April). *Math Teachers and Social Media: Professional Collaboration or Support Group?* Presentation for the Annual Meeting of the National Council of Teachers of Mathematics, New Orleans, LA. <http://dx.doi.org/10.6084/m9.figshare.2087740>
+
+`2013` **Johnson, R.** & Thomas, S. (2013, April). *Statistical Reasoning in the Middle School.* Gallery workshop for the Annual Meeting of the National Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.3124828>
+
+`2013` Abels, M., Matassa, M. S., & **Johnson, R.** (2013, April). *Making Sense of Algebra with Realistic Mathematics Education.* Gallery workshop for the Annual Meeting of the National Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.3124831>
+
+`2011` **Johnson, R.** (2011, November). *Efficient Polynomial Multiplication, Division, Factoring, and Completing the Square.* Gallery workshop for the Regional Conference of the National Council of Teachers of Mathematics, Albuquerque, NM. <http://dx.doi.org/10.6084/m9.figshare.3124834>
+
+`2011` **Johnson, R.** (2011, September). *A Learning Progression for Multiplying, Dividing, and Factoring Polynomials.* Presentation for the 3rd International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124837>
+
+`2001` **Johnson, R.** (2001, October). *Remote Sensing Outreach of the University of Northern Iowa STORM Project.* Presentation for the 2011 Iowa Geographic Information Council (IGIC), Iowa City, IA.
 
 ### Posters
 
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
+`2016` Severance, S., Leary, H., **Johnson, R.**, & Quigley, D. (2016, April). *Developing Teacher Expertise in the Next Generation Science Standards Through Curricular Co-Design.* Structured poster presentation at the Annual Meeting of the American Educational Research Association, Washington, D.C.
 
-`2014`
-_ISMB_ (Boston MA, USA)
+`2015` Sumner, T., Penuel, W. R., Severance, S., **Johnson, R.**, Quigley, D. (2015, September). *Inquiry Hub: Ecosystems: Digital Curriculum for Citizen Science from a Design Research Partnership.* Poster at the 7th Annual Symposium on STEM Education, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082628>
 
-_Genome informatics_ (Cambridge, UK)
+`2014` **Johnson, R.**, Leary, H., Severance, S., Penuel, W., Sumner, T., Devaul, H., & Dibie, O. (2014, September). *Capacity for Customization: Algebra Teachers, Curriculum Design, and the Common Core.* Poster at the 6th Annual Symposium on STEM Education, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.1218433>
 
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
+`2014` **Johnson, R.** (2014, April). *Aligning Mathematical Tasks to the Standards for Mathematical Practice.* Poster for the Research Conference of the National Council of Teachers of Mathematics, New Orleans, LA. <http://dx.doi.org/10.6084/m9.figshare.3124822>
 
-`2013`
-_Genome informatics_ (CSHL NY, USA)
+`2014` **Johnson, R.**, Leary, H., & Penuel, W. (2014, April). *Supporting Common Core-Driven Curriculum Adaptations for High School Algebra.* Poster for the SIG-RME poster session at the Annual Meeting of the American Educational Research Association, Philadelphia, PA. <https://dx.doi.org/10.6084/m9.figshare.3124825>
 
-_EpiGeneSys_ (Cambridge, UK)
+`2013` Leary, H., Severance, S., & **Johnson, R.** (2013, September). *Customizing Curriculum and Digital Resources for STEM Educators.* Poster for the 5th Annual Symposium on STEM Education, Boulder, CO.
+
+`2011` **Johnson, R.** & Thomas, S. (2011, April). *What's the Probability of Teaching Statistics?* Poster presented for the 2011 Spring Qualitative Methods Class Poster Session, School of Education, University of Colorado Boulder, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124840>
+
+### Workshops
+
+`2014` **Johnson, R.** (2014, July). *Making Social Media More Than Merely Social: Implications for Teacher Professionalism.* Invited presentation for the Global Math Department, <https://www.bigmarker.com/GlobalMathDept/22July2014>
 
 ## Research activity
 
