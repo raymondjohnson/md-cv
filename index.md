@@ -57,10 +57,14 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. <http://doi.org/10.1007/s10857-015-9338-3>
 
+`2016` Peck, F., Alzen, J., Briggs, D., & **Johnson, R.** (2016). Developing purposeful questions and analyzing student reasoning: Two tools. *Colorado Mathematics Teacher, 49*(1), (pp. 18-24) <https://digscholarship.unco.edu/cmt/vol49/iss1/5/>
+
 ### Book chapters
 `2016` **Johnson, R.** (2016) A few thoughts from NCTM 2015. In I. Horn & T. Cardone (Eds.), *The best of the math teacher blogs 2015* (pp. 147-148)
 
 ### Conference proceedings
+
+Bell, P., Severance, S., Penuel, W. R., Sumner, T., Mommandi, W., Quigley, D., Van Horne, K., **Johnson, R.**, Stromholt, S., Lakhani, H., Davis, K., Bell, A., & Bang, M. (2016). Researchers and practitioners co-designing for expansive science learning and educational equity. In C-K. Looi, J. L. Polman, P. Reimann, & U. Cress (Eds.), *12th International Conference of the Learning Sciences, ICLS 2016: Transforming Learning, Empowering Learners, Proceedings* (Vol. 2, pp. 1128-1135). International Society of the Learning Sciences (ISLS). <https://repository.isls.org/handle/1/383>
 
 `2014` **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Mathematical tasks as boundary objects in design-based implementation research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1127-1131). Boulder, CO: International Society of the Learning Sciences. Retrieved from <http://scholar.colorado.edu/educgradpapers/1/>
 
@@ -78,7 +82,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### Theses
 
-`2018` **Johnson, R.** (2018). *Designing for Consensus and the Standards for Mathematical Practice*. (Unpublished dissertation). University of Colorado Boulder, Boulder, CO. <https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f>
+`2018` **Johnson, R.** (2018). *Designing for Consensus and the Standards for Mathematical Practice*. (Unpublished dissertation). University of Colorado Boulder, Boulder, CO. <https://search.proquest.com/openview/7c166a1731165bf9a510c733a7ed9c7c/1>
 
 `1999` **Johnson, R.** (1999). *Math Wars: The Politics of Curriculum* (Unpublished undergraduate thesis). University of Northern Iowa, Cedar Falls, IA. <http://dx.doi.org/10.6084/m9.figshare.2391046>
 
