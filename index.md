@@ -95,29 +95,43 @@ _EpiGeneSys_ (Cambridge, UK)
 
 ### University
 
-**Basic Statistical Methods** School of Education, University of Colorado Boulder (2011F, 2012F, 2013F, 2015F)
+`2011-2015`
+**Basic Statistical Methods** School of Education, University of Colorado Boulder (4 semesters, both as upper-level undergraduate and as a graduate course)
 
-**School in Society** School of Education, University of Colorado Boulder (2012S, 2013S)
+`2012-2013`
+**School in Society** School of Education, University of Colorado Boulder (2 semesters)
 
-**CU Teach: Step 1 and Step 2** School of Education, University of Colorado Boulder (2011F, 2012S)
+`2011-2012`
+**CU Teach: Step 1 and Step 2** School of Education, University of Colorado Boulder (2 semesters; introductory courses for aspiring mathematics and science preservice teachers)
 
-**Inagural Presidential Scholars Think Tank** University of Northern Iowa (2000F)
+`2000`
+**Presidential Scholars Think Tank** University of Northern Iowa (1 semester; co-directed inaugural think tank with UNI President Robert Koob)
 
-**Physical Geography Lab** Department of Geography, University of Northern Iowa (2000F)
+`2000`
+**Physical Geography Lab** Department of Geography, University of Northern Iowa (1 semester; teaching assistant and lab instructor for Dennis Dahms)
 
-**Introduction to Statistics** Department of Mathematics, University of Northern Iowa (1999Su)
+`1999`
+**Introduction to Statistics** Department of Mathematics, University of Northern Iowa (Summer semester; teaching assistant for Mark Ecker)
 
 ### K-12
 
-**Algebra 1** South Park High School and Florence High School (2003-2009)
+`2003-2009`
+**Algebra 1** South Park High School and Florence High School
 
-**Geometry** South Park High School and Florence High School (2003-2009)
+`2003-2009`
+**Geometry** South Park High School and Florence High School
 
-**Algebra 2** South Park High School and Florence High School (2003-2009)
+`2003-2009`
+**Algebra 2** South Park High School and Florence High School
 
-**Math Lab** South Park High School (2006-2009)
+`2006-2009`
+**Math Lab** South Park High School
 
-**Business Math** Florence High School (2003-2006)
+`2003-2006`
+**Business Math** Florence High School
+
+`2002-2003`
+**Substitute Teacher** North Central Iowa
 
 ## Technical skills
 
