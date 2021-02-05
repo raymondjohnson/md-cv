@@ -91,6 +91,34 @@ _EpiGeneSys_ (Cambridge, UK)
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
+## Teaching activity
+
+### University
+
+**Basic Statistical Methods** School of Education, University of Colorado Boulder (2011F, 2012F, 2013F, 2015F)
+
+**School in Society** School of Education, University of Colorado Boulder (2012S, 2013S)
+
+**CU Teach: Step 1 and Step 2** School of Education, University of Colorado Boulder (2011F, 2012S)
+
+**Inagural Presidential Scholars Think Tank** University of Northern Iowa (2000F)
+
+**Physical Geography Lab** Department of Geography, University of Northern Iowa (2000F)
+
+**Introduction to Statistics** Department of Mathematics, University of Northern Iowa (1999Su)
+
+### K-12
+
+**Algebra 1** South Park High School and Florence High School (2003-2009)
+
+**Geometry** South Park High School and Florence High School (2003-2009)
+
+**Algebra 2** South Park High School and Florence High School (2003-2009)
+
+**Math Lab** South Park High School (2006-2009)
+
+**Business Math** Florence High School (2003-2006)
+
 ## Technical skills
 
 * Python
