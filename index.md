@@ -1,38 +1,47 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Raymond Johnson's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Raymond Johnson
+Mathematics educator
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:raymond@mathed.net">raymond@mathed.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a>
 </div>
 
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, through being a communicator and by serving our professional mathematics teaching and leadership organizations.
 
 ## Employment
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`2016-` 
+__Colorado Department of Education__ Mathematics Content Specialist
+
+`2010-2016`
+__University of Colorado Boulder__ Graduate Student Assistant
+
+`2006-2009`
+__Park County School District Re-2__ High School Mathematics Teacher
+
+`2003-2006`
+__Fremont School District Re-2__ High School Mathematics Teacher
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`2009-2018`
+__University of Colorado Boulder__ Curriculum & Instruction Ph.D. (advisor: David C. Webb; project PIs: Tamara Sumner and William Penuel). My thesis was titled _Designing for Consensus and the Standards for Mathematical Practice_ and is available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f).
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2000-2002`
+__University of Northern Iowa__ Graduate Program Certificate in GIS and Cartography
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`1996-1999`
+__University of Northern Iowa__ BA Mathematics-Teaching
 
 ## Presentations
 
@@ -101,29 +110,38 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Technical skills
 
-* R
 * Python
-* Javascript (incl. Typescript, Angular)
-* Go
+* R
 * HTML and CSS
+* Markdown
+* PHP
 * LaTeX
 * Bash
-* Git / Mercurial
-* UNIX
-* Cluster computing
-* Docker
-* AWS
+* Linux
+* Apache
+* Microsoft 365
+* Smartsheet
+* Audio, photo, and video editing
 
 ## Areas of expertise
 
-* Bioinformatics
-* Statistics
-* Machine learning
-* Data visualisation
-* Software development
-* NGS and variant calling
+* Curriculum policy
+* Realistic Mathematics Education (RME)
+* Statistics education
+* Design-based implementation research
+* Project management
+* Academic and open-access publishing
 
 ## Projects
+
+### Colorado Academic Standards
+
+### Setting the Standard podcast
+
+### blog
+
+
+
 
 ### github
 
@@ -167,15 +185,13 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:raymond@mathed.net">raymond@mathed.net</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/raymondcjohnson/">LinkedIn</a>
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=DQawSoYAAAAJ">Google scholar</a>
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-7452-5983">ORCiD</a>
+* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Raymond_Johnson/634174">figshare</a>
 
 ## References
 
@@ -183,4 +199,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2020 -->
