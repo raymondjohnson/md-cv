@@ -34,10 +34,10 @@ __Fremont School District Re-2__ High School Mathematics Teacher
 ## Education
 
 `2009-2018`
-__University of Colorado Boulder__ Ph.D., Education
+__University of Colorado Boulder__ Ph.D., Education &mdash; Curriculum and Instruction
 
-Emphasis in Curriculum and Instruction in Mathematics Education, David C. Webb, Advisor<br />
-Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_ (available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f))
+Emphasis in Mathematics Education, David C. Webb, Advisor<br />
+Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_
 
 `2000-2002`
 __University of Northern Iowa__ Graduate Program Certificate in GIS and Cartography
