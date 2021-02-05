@@ -55,32 +55,32 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### Journals
 
-`2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. http://doi.org/10.1007/s10857-015-9338-3
+`2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. (http://doi.org/10.1007/s10857-015-9338-3)
 
 ### Book chapters
 `2016` **Johnson, R.** (2016) A few thoughts from NCTM 2015. In I. Horn & T. Cardone (Eds.), *The best of the math teacher blogs 2015* (pp. 147-148)
 
 ### Conference proceedings
 
-`2014` **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Mathematical tasks as boundary objects in design-based implementation research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1127-1131). Boulder, CO: International Society of the Learning Sciences. Retrieved from [http://scholar.colorado.edu/educgradpapers/1/]
+`2014` **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Mathematical tasks as boundary objects in design-based implementation research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1127-1131). Boulder, CO: International Society of the Learning Sciences. Retrieved from (http://scholar.colorado.edu/educgradpapers/1/)
 
-`2014` Severance, S., Leary, H., & **Johnson, R.** (2014). Tensions in a multi-tiered research-practice partnership. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1171-1175). Boulder, CO: International Society of the Learning Sciences. Retrieved from [http://www.isls.org/icls2014/Proceedings.html] and [http://mathed.net/files/2014-ICLS-TensionsinaMulti-TieredResearch-PracticePartnership.pdf]
+`2014` Severance, S., Leary, H., & **Johnson, R.** (2014). Tensions in a multi-tiered research-practice partnership. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1171-1175). Boulder, CO: International Society of the Learning Sciences. Retrieved from (http://www.isls.org/icls2014/Proceedings.html) and (http://mathed.net/files/2014-ICLS-TensionsinaMulti-TieredResearch-PracticePartnership.pdf)
 
-`2014` Cole, M., Engestrom, Y., Sannino, A., Gutierrez, K., Packer, M., Penuel, W. R., **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Toward an argumentative grammar for sociocultural/cultural-historical activity approaches to design research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 3* (pp.  1254-1263). Boulder, CO: International Society of the Learning Sciences. Retrieved from [http://www.isls.org/icls2014/Proceedings.html] and [http://mathed.net/files/2014-ICLS-TowardanArgumentativeGrammarforCHATDesignResearch.pdf]
+`2014` Cole, M., Engestrom, Y., Sannino, A., Gutierrez, K., Packer, M., Penuel, W. R., **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Toward an argumentative grammar for sociocultural/cultural-historical activity approaches to design research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 3* (pp.  1254-1263). Boulder, CO: International Society of the Learning Sciences. Retrieved from (http://www.isls.org/icls2014/Proceedings.html) and (http://mathed.net/files/2014-ICLS-TowardanArgumentativeGrammarforCHATDesignResearch.pdf)
 
 ### Reports
 
-`2016` Penuel, W. R. & **Johnson, R.** (2016) Review of "*Continued Progress: Promising Evidence on Personalized Learning*." Boulder, CO: National Education Policy Center. Retrieved from [http://nepc.colorado.edu/thinktank/review-personalized-learning]
+`2016` Penuel, W. R. & **Johnson, R.** (2016) Review of "*Continued Progress: Promising Evidence on Personalized Learning*." Boulder, CO: National Education Policy Center. Retrieved from (http://nepc.colorado.edu/thinktank/review-personalized-learning)
 
-`2015` Briggs, D. C., Peck, F., **Johnson, R.**, & Alzen, J. (2015). The learning progression project Year 2 pilot findings: Mathematics (Report). Retrieved from [http://www.colorado.edu/cadre/selected-reports-and-publications]
+`2015` Briggs, D. C., Peck, F., **Johnson, R.**, & Alzen, J. (2015). The learning progression project Year 2 pilot findings: Mathematics (Report). Retrieved from (http://www.colorado.edu/cadre/selected-reports-and-publications)
 
-`2015` Briggs, D. C., Diaz-Bilello, E., Peck, F., Alzen, J., Chattergoon, R., & **Johnson,  R.** (2015). Using a learning progression framework to assess and evaluate student growth (Working Paper). Retrieved from [http://www.colorado.edu/cadre/selected-reports-and-publications]
+`2015` Briggs, D. C., Diaz-Bilello, E., Peck, F., Alzen, J., Chattergoon, R., & **Johnson,  R.** (2015). Using a learning progression framework to assess and evaluate student growth (Working Paper). Retrieved from (http://www.colorado.edu/cadre/selected-reports-and-publications)
 
 ### Theses
 
-`2018` **Johnson, R.** (2018). *Designing for Consensus and the Standards for Mathematical Practice*. (Unpublished dissertation). University of Colorado Boulder, Boulder, CO. [https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f]
+`2018` **Johnson, R.** (2018). *Designing for Consensus and the Standards for Mathematical Practice*. (Unpublished dissertation). University of Colorado Boulder, Boulder, CO. (https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f)
 
-`1999` **Johnson, R.** (1999). *Math Wars: The Politics of Curriculum* (Unpublished undergraduate thesis). University of Northern Iowa, Cedar Falls, IA. http://dx.doi.org/10.6084/m9.figshare.2391046
+`1999` **Johnson, R.** (1999). *Math Wars: The Politics of Curriculum* (Unpublished undergraduate thesis). University of Northern Iowa, Cedar Falls, IA. (http://dx.doi.org/10.6084/m9.figshare.2391046)
 
 ## Non-academic
 <!--
