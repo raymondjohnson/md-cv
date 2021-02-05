@@ -51,6 +51,18 @@ Emphasis in Secondary Mathematics Teaching, Bonnie Litwiller, Advisor<br />
 Presidential Scholar (Awarded to top 15 of approximately 3,000 incoming freshmen)<br />
 Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edward Rathmell, Thesis Advisor
 
+## Publications
+
+<!-- ### Journals -->
+`2016`
+**Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. http://doi.org/10.1007/s10857-015-9338-3
+
+## Non-academic
+
+`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
+
+`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+
 ## Presentations
 
 ### Tutorials
@@ -87,18 +99,23 @@ _Genome informatics_ (CSHL NY, USA)
 
 _EpiGeneSys_ (Cambridge, UK)
 
+## Research activity
 
-## Publications
+`2012-2016`
+**Graduate Research Assistant** Institute of Cognitive Science and School of Education, University of Colorado Boulder
 
-<!-- ### Journals -->
-`2016`
-**Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. http://doi.org/10.1007/s10857-015-9338-3
+Project: Inquiry Hub (NSF Award #1147590)<br />
+Principal Investigators: Tamara Sumner, William Penuel (Co-PI)<br />
+Primary Collaborators: Heather Leary, Jennifer Jacobs, Samuel Severance, Holly Devaul, Cathy Martin, Patty Kincaid<br />
+Reponsibilities: Provided algebra content expertise, professional develoopment facilitation, research assistance in a research-practice partnership, and project management duties (Fall 2015 to Spring 2016)
 
-## Non-academic
+`2014-2015`
+**Graduate Research Assistant** Center for Assessment, Design, Research and Evaluation (CADRE), School of Education, University of Colorado Boulder
 
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
+Project: Measuring Student Growth Using Student Learning Outcomes<br />
+Faculty Director: Derek Briggs<br />
+Primary Collaborators: Fred Peck, Jessica Alzen, Rajendra Chattergoon, David Webb<br />
+Responsibilities: Provided content expertise and professional development and led research efforts with Kindergarten and Grade 1 teachers
 
 ## Service activity
 
