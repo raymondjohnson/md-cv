@@ -34,7 +34,9 @@ __Fremont School District Re-2__ High School Mathematics Teacher
 ## Education
 
 `2009-2018`
-__University of Colorado Boulder__ Curriculum & Instruction Ph.D. (advisor: David C. Webb; project PIs: Tamara Sumner and William Penuel). My thesis was titled _Designing for Consensus and the Standards for Mathematical Practice_ and is available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f).
+__University of Colorado Boulder__ Curriculum & Instruction Ph.D.
+* Advisor: David C. Webb; project PIs: Tamara Sumner and William Penuel
+* Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_ (available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f)
 
 `2000-2002`
 __University of Northern Iowa__ Graduate Program Certificate in GIS and Cartography
