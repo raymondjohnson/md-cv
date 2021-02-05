@@ -13,7 +13,6 @@ Mathematics educator
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a>
 </div>
 
-
 ## Currently
 
 I'm the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, through being a communicator and by serving our professional mathematics teaching and leadership organizations.
@@ -83,6 +82,9 @@ _EpiGeneSys_ (Cambridge, UK)
 ## Publications
 
 <!-- ### Journals -->
+`2016`
+**Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. http://doi.org/10.1007/s10857-015-9338-3
+
 `2017`
 Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
 
@@ -140,12 +142,6 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ### blog
 
-
-
-
-### github
-
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
 
 ### blog
 
