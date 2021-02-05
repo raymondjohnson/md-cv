@@ -97,6 +97,8 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### Conference sessions
 
+`2021` **Johnson, R.** (2021, April). *Are you thinking what I'm thinking?* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
+
 `2021` Peck, F., **Johnson, R.**, & Webb, D. C. (2021, April). *Making Algebra Meaningful: The Area Model from Arithmetic to Algebra (to Calculus!).* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
 
 `2020` **Johnson, R.**, Peck, F., & Webb, D. C. (2020, April, cancelled due to COVID-19). *Making Meaning of Systems of Equations with Contexts and Representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Chicago, IL.
