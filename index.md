@@ -238,35 +238,90 @@ American Educational Research Association
 
 ### Mathematics education
 
+`2010-2016`
+**Readings in Math Ed (Program Area Seminar)** (EDUC 6925)
+
 `Spring 2014`
-EDUC 8165  Topics in Math Ed:  Research on Teacher Learning & Practice David WebbSp14
+**Topics in Math Ed: Research on Teacher Learning & Practice** with David Webb (EDUC 8165)
 
 `Fall 2013`
-EDUC 8165  Topics in Math Ed:  Research & Writing in Math/Sci EdErin FurtakFa13
+**Topics in Math Ed: Research & Writing in Math/Sci Ed** with Erin Furtak (EDUC 8165)
 
 `Spring 2013`
-EDUC 8165  Topics in Math Ed:  Curriculum, Culture, and AchievementEdd TaylorSp13
+**Topics in Math Ed: Curriculum, Culture, and Achievement** with Edd Taylor (EDUC 8165)
 
 `Spring 2012`
-EDUC 8165  Topics in Math Ed:  Theories of Math and Science LearningVicki HandSp12
+**Topics in Math Ed: Theories of Math and Science Learning** with Vicki Hand (EDUC 8165)
 
 `Fall 2011`
-EDUC 8165  Topics in Math Ed:  Research in the Learning of AlgebraDavid WebbFa11
-
-`2010-2018`
-EDUC 6925  Readings in Math Ed (Program Area Seminar)VariousFa10–Present
+**Topics in Math Ed: Research in the Learning of Algebra** with David Webb (EDUC 8165)
 
 `Summer 2011`
-EDUC 6804  Student Centered Secondary MathematicsWebb/van der KooijSu11
+**Student Centered Secondary Mathematics** with David Webb and Henk van der Kooij (EDUC 6804)
 
 `Summer 2010`
-EDUC 5820  Teaching of Mathematics:  Algebraic ThinkingThomas SullivanSu10
+**Teaching of Mathematics: Algebraic Thinking** with Thomas Sullivan (EDUC 5820)
 
 `Summer 2010`
-EDUC 5810  Teaching of Mathematics:  Number SenseMichael MatassaSu10
+**Teaching of Mathematics: Number Sense** with Michael Matassa (EDUC 5810)
 
 `Fall 2009`
-EDUC 5317  Nature of Mathematics and Mathematics EducationDavid WebbFa09
+**Nature of Mathematics and Mathematics Education** with David Webb (EDUC 5317)
+
+### Assessment and measurement
+
+`Fall 2012`
+**Advances in the Assessment of Student Learning** with Erin Furtak (EDUC 8740)
+
+`Spring 2012`
+**Advanced Topics in Measurement** with Derek Briggs (EDUC 8720)
+
+`Fall 2011`
+**Measurement in Survey Research** with Derek Briggs (EDUC 8710)
+
+`Spring 2010`
+**Assessment of Mathematics and Science Education** with David Webb (EDUC 5706)
+
+### Other
+
+`Fall 2014`
+**Purposes and Methods of Design Research** with William Penuel and Eve Manz (EDUC 8348)
+
+`Spring 2013`
+**Language Issues in Education Research** with Guillermo Solano-Flores (EDUC 8615)
+
+`Spring 2013`
+**Research on Teaching and Learning to Teach** with Daniel Liston and Jennifer Whitcomb (EDUC 8145)
+
+`Fall 2011`
+**Multicultural Education** with Linda Mizell (EDUC 8014)
+
+`Spring 2011`
+**Qualitative Methods II** with Susan Jurow (EDUC 8260)
+
+`Spring 2011`
+**Quantitative Methods II** with Gregory Camilli (EDUC 8240)
+
+`Spring 2011`
+**Introduction to Education Research and Policy** with Ken Howe (EDUC 8220)
+
+`Fall 2010`
+**Qualitative Methods I** with Margaret Eisenhart (EDUC 8250)
+
+`Fall 2010`
+**Quantitative Methods I** with Gregory Camilli (EDUC 8230)
+
+`Fall 2010`
+**Perspectives on Classrooms, Teaching, and Learning** with Elizabeth Dutro (EDUC 8210)
+
+`Spring 2010`
+**Policy Issues in Education** with Kevin Welner (EDUC 7446)
+
+`Spring 2010`
+**Culture and Ethnography in Education** with Margaret Eisenhart (EDUC 6325)
+
+`Fall 2009`
+**Ethics in Education** with Ken Howe (EDUC 6804)
 
 ## Links
 
