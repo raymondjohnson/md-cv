@@ -34,7 +34,7 @@ __Fremont School District Re-2__ High School Mathematics Teacher
 ## Education
 
 `2009-2018`
-__University of Colorado Boulder__ Education Ph.D.
+__University of Colorado Boulder__ Ph.D., Education
 
 Emphasis in Curriculum and Instruction in Mathematics Education, David C. Webb, Advisor<br />
 Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_ (available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f))
@@ -45,7 +45,7 @@ __University of Northern Iowa__ Graduate Program Certificate in GIS and Cartogra
 Emphases in land cover analysis, alpine geography, data storage and distribution
 
 `1996-1999`
-__University of Northern Iowa__ BA Mathematics
+__University of Northern Iowa__ B.A., Mathematics
 
 Emphasis in Secondary Mathematics Teaching, Bonnie Litwiller, Advisor<br />
 Presidential Scholar (Awarded to top 15 of approximately 3,000 incoming freshmen)<br />
@@ -53,16 +53,35 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ## Publications
 
-<!-- ### Journals -->
-`2016`
-**Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. http://doi.org/10.1007/s10857-015-9338-3
+### Journals
+
+`2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. http://doi.org/10.1007/s10857-015-9338-3
+
+### Book chapters
+`2016` **Johnson, R.** (2016) A few thoughts from NCTM 2015. In I. Horn & T. Cardone (Eds.), *The best of the math teacher blogs 2015* (pp. 147-148)
+
+## Conference proceedings
+
+`2014` **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Mathematical tasks as boundary objects in design-based implementation research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1127-1131). Boulder, CO: International Society of the Learning Sciences. Retrieved from [http://scholar.colorado.edu/educgradpapers/1/]
+
+`2014` Severance, S., Leary, H., & **Johnson, R.** (2014). Tensions in a multi-tiered research-practice partnership. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 2* (pp. 1171-1175). Boulder, CO: International Society of the Learning Sciences. Retrieved from [http://www.isls.org/icls2014/Proceedings.html] and [http://mathed.net/files/2014-ICLS-TensionsinaMulti-TieredResearch-PracticePartnership.pdf]
+
+### Reports
+
+`2016` Penuel, W. R. & **Johnson, R.** (2016) Review of "*Continued Progress: Promising Evidence on Personalized Learning*." Boulder, CO: National Education Policy Center. Retrieved from [http://nepc.colorado.edu/thinktank/review-personalized-learning]
+
+`2015` Briggs, D. C., Peck, F., **Johnson, R.**, & Alzen, J. (2015). The learning progression project Year 2 pilot findings: Mathematics (Report). Retrieved from [http://www.colorado.edu/cadre/selected-reports-and-publications]
+
+`2015` Briggs, D. C., Diaz-Bilello, E., Peck, F., Alzen, J., Chattergoon, R., & **Johnson,  R.** (2015). Using a learning progression framework to assess and evaluate student growth (Working Paper). Retrieved from [http://www.colorado.edu/cadre/selected-reports-and-publications]
+
+
 
 ## Non-academic
-
+<!--
 `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
+-->
 ## Presentations
 
 ### Tutorials
