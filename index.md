@@ -97,7 +97,33 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### Conference sessions
 
-`2016` **Johnson, R.**, Peck, F., & Webb, D. C. (2016, April). *Modeling Your Way to Understanding with Realistic Mathematics Education.* Presentation at the Annual Meeting of the National Council of Teachers of Mathematics, San Francisco, CA.
+`2021` Peck, F., **Johnson, R.**, & Webb, D. C. (2021, April). *Making Algebra Meaningful: The Area Model from Arithmetic to Algebra (to Calculus!).* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
+
+`2020` **Johnson, R.**, Peck, F., & Webb, D. C. (2020, April, cancelled due to COVID-19). *Making Meaning of Systems of Equations with Contexts and Representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Chicago, IL.
+
+`2019` **Johnson, R.** (2019, July). *What to Look for in the 2020 Colorado Academic Standards.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2019` **Johnson, R.** (2019, July). *So You Think You Know the SMPs?* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2019` Webb, D. C., **Johnson, R.**, & Peck, F. (2019, April). *Making Logarithms Meaningful through Progressive Formalization.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, San Diego, CA.
+
+`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades P-2 Mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades 3-5 Mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades 6-8 Mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2018` Funderburk, J., **Johnson, R.**, & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: High School.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2018` Peck, F., **Johnson, R.**, & Webb, D. C. (2018, April). *Building Meaning into Algebra Equations with Multiple Representations and Progressive Formalization.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Washington, D.C.
+
+`2017` **Johnson, R.** (2017, September). *Colorado Mathematics Standards Review and Revision.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2017` **Johnson, R.** (2017, April). Dissertation stuff? Presentation at the Research Conference of the National Council of Teachers of Mathematics, San Antonio, TX.
+
+`2016` **Johnson, R.** (2016, September). *Share Your Lesson Planning, Not Your Lesson Plans.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+
+`2016` **Johnson, R.**, Peck, F., & Webb, D. C. (2016, April). *Modeling Your Way to Understanding with Realistic Mathematics Education.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, San Francisco, CA.
 
 `2016` **Johnson, R.**, Peck, F., Briggs, D. C., & Alzen, J. (2016, April). *A Unified Framework of Teachers' Conceptions of Learning and Assessment.* Interactive paper presentation at the Research Conference of the National Council of Teachers of Mathematics, San Francisco, CA.
 
