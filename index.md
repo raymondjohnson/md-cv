@@ -100,6 +100,24 @@ _EpiGeneSys_ (Cambridge, UK)
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
+## Service activity
+
+`2018-`
+**Production Editor** for the *Colorado Mathematics Teacher* (a journal of the publication of the Colorado Department of Education)
+
+`2018-2020`
+**Interim Technology Integration Specialist** for the Colorado Council of Teachers of Mathematics (NCTM affiliate)
+
+`2016-`
+**Board Member** for the Colorado Math Leaders (NCSM affiliate)
+
+`2016-`
+**Board Member** for the Colorado Council of Teachers of Mathematics (NCTM affiliate)
+
+``2014``
+**Contributor** for the "Guides to the Colorado Academic Standards in Mathematics" (a publication of the Colorado Department of Education)
+
+
 ## Teaching activity
 
 ### University
@@ -204,12 +222,51 @@ Training accreditation for Wikimedia UK, the national chapter of the Wikimedia F
 
 Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
 
-## Placements
+## Memberships
 
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+National Council of Teachers of Mathematics
 
+Colorado Council of Teachers of Mathematics
+
+NCSM: Leadership in Mathematics Education
+
+Colorado Mathematics Leaders
+
+American Educational Research Association
+
+## Graduate coursework
+
+### Mathematics education
+
+`Spring 2014`
+EDUC 8165  Topics in Math Ed:  Research on Teacher Learning & Practice David WebbSp14
+
+`Fall 2013`
+EDUC 8165  Topics in Math Ed:  Research & Writing in Math/Sci EdErin FurtakFa13
+
+`Spring 2013`
+EDUC 8165  Topics in Math Ed:  Curriculum, Culture, and AchievementEdd TaylorSp13
+
+`Spring 2012`
+EDUC 8165  Topics in Math Ed:  Theories of Math and Science LearningVicki HandSp12
+
+`Fall 2011`
+EDUC 8165  Topics in Math Ed:  Research in the Learning of AlgebraDavid WebbFa11
+
+`2010-2018`
+EDUC 6925  Readings in Math Ed (Program Area Seminar)VariousFa10–Present
+
+`Summer 2011`
+EDUC 6804  Student Centered Secondary MathematicsWebb/van der KooijSu11
+
+`Summer 2010`
+EDUC 5820  Teaching of Mathematics:  Algebraic ThinkingThomas SullivanSu10
+
+`Summer 2010`
+EDUC 5810  Teaching of Mathematics:  Number SenseMichael MatassaSu10
+
+`Fall 2009`
+EDUC 5317  Nature of Mathematics and Mathematics EducationDavid WebbFa09
 
 ## Links
 
