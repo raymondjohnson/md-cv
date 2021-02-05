@@ -37,17 +37,22 @@ __Fremont School District Re-2__ High School Mathematics Teacher
 __University of Colorado Boulder__ Education Ph.D.
 
 Emphasis in Curriculum and Instruction in Mathematics Education, David C. Webb, Advisor
+
 Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_ (available through the [CU Scholar repository](https://scholar.colorado.edu/concern/graduate_thesis_or_dissertations/tm70mv36f))
 
 `2000-2002`
 __University of Northern Iowa__ Graduate Program Certificate in GIS and Cartography
 
+Emphases in land cover analysis, alpine geography, data storage and distribution
+
 `1996-1999`
 __University of Northern Iowa__ BA Mathematics
 
 Emphasis in Secondary Mathematics Teaching, Bonnie Litwiller, Advisor
+
 Presidential Scholar (Awarded to top 15 of approximately 3,000 incoming freshmen)
-Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, advised by Edward Rathmell
+
+Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edward Rathmell, Thesis Advisor
 
 ## Presentations
 
