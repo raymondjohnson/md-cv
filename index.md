@@ -82,8 +82,9 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `1999` **Johnson, R.** (1999). *Math Wars: The Politics of Curriculum* (Unpublished undergraduate thesis). University of Northern Iowa, Cedar Falls, IA. <http://dx.doi.org/10.6084/m9.figshare.2391046>
 
-## Non-academic
 <!--
+## Non-academic
+
 `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
@@ -96,9 +97,9 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2016` **Johnson, R.**, Peck, F., Briggs, D. C., & Alzen, J. (2016, April). *A Unified Framework of Teachers' Conceptions of Learning and Assessment.* Interactive paper presentation at the Research Conference of the National Council of Teachers of Mathematics, San Francisco, CA.
 
-`2015` Bejarano, L., Amidon, T., **Johnson, R.**, McGarry, A., & Turner, C. (2015, September). *Better Teaching Through Online Collaboration: Twitter, Blogs, and the Web.* Invited presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.2082655}{http://dx.doi.org/10.6084/m9.figshare.2082655>
+`2015` Bejarano, L., Amidon, T., **Johnson, R.**, McGarry, A., & Turner, C. (2015, September). *Better Teaching Through Online Collaboration: Twitter, Blogs, and the Web.* Invited presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.2082655>
 
-`2015` **Johnson, R.**, Peck, F., Campbell, W., Grover, R., Miller, S., Scroggins, A., & Webb, D. C. (2015, September). *An Orientation to Realistic Mathematics Education.* Opening plenary at the 5th International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082622}{http://dx.doi.org/10.6084/m9.figshare.2082622>
+`2015` **Johnson, R.**, Peck, F., Campbell, W., Grover, R., Miller, S., Scroggins, A., & Webb, D. C. (2015, September). *An Orientation to Realistic Mathematics Education.* Opening plenary at the 5th International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082622>
 
 `2015` Furtak, E. M., Cartun, A., Kizil, R. C., Chrzanowski, A. M., Grover, R., Heredia, S. C., **Johnson, R.**, McClelland, A., White, K. H. O. (2015, April). *Toward a Participation Metaphor for Formative Assessment.* Roundtable presentation at the Annual Meeting of the American Educational Research Association, Chicago, IL. <http://tinyurl.com/lkjahyu>
 
@@ -250,6 +251,7 @@ Responsibilities: Provided content expertise and professional development and le
 
 I have written at [blog.mathed.net](https://blog.mathed.net) since 2009, where I bring together issues of research, policy, and practice in mathematics education.
 
+<!--
 ### blog
 
 I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
@@ -277,7 +279,7 @@ Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
 Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
 
 Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
+-->
 ## Memberships
 
 National Council of Teachers of Mathematics
@@ -294,90 +296,63 @@ American Educational Research Association
 
 ### Mathematics education
 
-`2010-2016`
-**Readings in Math Ed (Program Area Seminar)** (EDUC 6925)
+`2010-2016` **Readings in Math Ed (Program Area Seminar)** (EDUC 6925)
 
-`Spring 2014`
-**Topics in Math Ed: Research on Teacher Learning & Practice** with David Webb (EDUC 8165)
+`Spring 2014` **Topics in Math Ed: Research on Teacher Learning & Practice** with David Webb (EDUC 8165)
 
-`Fall 2013`
-**Topics in Math Ed: Research & Writing in Math/Sci Ed** with Erin Furtak (EDUC 8165)
+`Fall 2013` **Topics in Math Ed: Research & Writing in Math/Sci Ed** with Erin Furtak (EDUC 8165)
 
-`Spring 2013`
-**Topics in Math Ed: Curriculum, Culture, and Achievement** with Edd Taylor (EDUC 8165)
+`Spring 2013` **Topics in Math Ed: Curriculum, Culture, and Achievement** with Edd Taylor (EDUC 8165)
 
-`Spring 2012`
-**Topics in Math Ed: Theories of Math and Science Learning** with Vicki Hand (EDUC 8165)
+`Spring 2012` **Topics in Math Ed: Theories of Math and Science Learning** with Vicki Hand (EDUC 8165)
 
-`Fall 2011`
-**Topics in Math Ed: Research in the Learning of Algebra** with David Webb (EDUC 8165)
+`Fall 2011` **Topics in Math Ed: Research in the Learning of Algebra** with David Webb (EDUC 8165)
 
-`Summer 2011`
-**Student Centered Secondary Mathematics** with David Webb and Henk van der Kooij (EDUC 6804)
+`Summer 2011` **Student Centered Secondary Mathematics** with David Webb and Henk van der Kooij (EDUC 6804)
 
-`Summer 2010`
-**Teaching of Mathematics: Algebraic Thinking** with Thomas Sullivan (EDUC 5820)
+`Summer 2010` **Teaching of Mathematics: Algebraic Thinking** with Thomas Sullivan (EDUC 5820)
 
-`Summer 2010`
-**Teaching of Mathematics: Number Sense** with Michael Matassa (EDUC 5810)
+`Summer 2010` **Teaching of Mathematics: Number Sense** with Michael Matassa (EDUC 5810)
 
-`Fall 2009`
-**Nature of Mathematics and Mathematics Education** with David Webb (EDUC 5317)
+`Fall 2009` **Nature of Mathematics and Mathematics Education** with David Webb (EDUC 5317)
 
 ### Assessment and measurement
 
-`Fall 2012`
-**Advances in the Assessment of Student Learning** with Erin Furtak (EDUC 8740)
+`Fall 2012` **Advances in the Assessment of Student Learning** with Erin Furtak (EDUC 8740)
 
-`Spring 2012`
-**Advanced Topics in Measurement** with Derek Briggs (EDUC 8720)
+`Spring 2012` **Advanced Topics in Measurement** with Derek Briggs (EDUC 8720)
 
-`Fall 2011`
-**Measurement in Survey Research** with Derek Briggs (EDUC 8710)
+`Fall 2011` **Measurement in Survey Research** with Derek Briggs (EDUC 8710)
 
-`Spring 2010`
-**Assessment of Mathematics and Science Education** with David Webb (EDUC 5706)
+`Spring 2010` **Assessment of Mathematics and Science Education** with David Webb (EDUC 5706)
 
 ### Other
 
-`Fall 2014`
-**Purposes and Methods of Design Research** with William Penuel and Eve Manz (EDUC 8348)
+`Fall 2014` **Purposes and Methods of Design Research** with William Penuel and Eve Manz (EDUC 8348)
 
-`Spring 2013`
-**Language Issues in Education Research** with Guillermo Solano-Flores (EDUC 8615)
+`Spring 2013` **Language Issues in Education Research** with Guillermo Solano-Flores (EDUC 8615)
 
-`Spring 2013`
-**Research on Teaching and Learning to Teach** with Daniel Liston and Jennifer Whitcomb (EDUC 8145)
+`Spring 2013` **Research on Teaching and Learning to Teach** with Daniel Liston and Jennifer Whitcomb (EDUC 8145)
 
-`Fall 2011`
-**Multicultural Education** with Linda Mizell (EDUC 8014)
+`Fall 2011` **Multicultural Education** with Linda Mizell (EDUC 8014)
 
-`Spring 2011`
-**Qualitative Methods II** with Susan Jurow (EDUC 8260)
+`Spring 2011` **Qualitative Methods II** with Susan Jurow (EDUC 8260)
 
-`Spring 2011`
-**Quantitative Methods II** with Gregory Camilli (EDUC 8240)
+`Spring 2011` **Quantitative Methods II** with Gregory Camilli (EDUC 8240)
 
-`Spring 2011`
-**Introduction to Education Research and Policy** with Ken Howe (EDUC 8220)
+`Spring 2011` **Introduction to Education Research and Policy** with Ken Howe (EDUC 8220)
 
-`Fall 2010`
-**Qualitative Methods I** with Margaret Eisenhart (EDUC 8250)
+`Fall 2010` **Qualitative Methods I** with Margaret Eisenhart (EDUC 8250)
 
-`Fall 2010`
-**Quantitative Methods I** with Gregory Camilli (EDUC 8230)
+`Fall 2010` **Quantitative Methods I** with Gregory Camilli (EDUC 8230)
 
-`Fall 2010`
-**Perspectives on Classrooms, Teaching, and Learning** with Elizabeth Dutro (EDUC 8210)
+`Fall 2010` **Perspectives on Classrooms, Teaching, and Learning** with Elizabeth Dutro (EDUC 8210)
 
-`Spring 2010`
-**Policy Issues in Education** with Kevin Welner (EDUC 7446)
+`Spring 2010` **Policy Issues in Education** with Kevin Welner (EDUC 7446)
 
-`Spring 2010`
-**Culture and Ethnography in Education** with Margaret Eisenhart (EDUC 6325)
+`Spring 2010` **Culture and Ethnography in Education** with Margaret Eisenhart (EDUC 6325)
 
-`Fall 2009`
-**Ethics in Education** with Ken Howe (EDUC 6804)
+`Fall 2009` **Ethics in Education** with Ken Howe (EDUC 6804)
 
 ## Links
 
