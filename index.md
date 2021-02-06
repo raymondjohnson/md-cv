@@ -173,6 +173,14 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ## Research activity
 
+`2015-2017`
+**Graduate Research Assistant** Institute of Cognitive Science, University of Colorado Boulder
+
+Project: Talk-Back<br />
+Principal Investigators: Tamara Sumner, Mimi Recker, William Penuel<br />
+Primary Collaborators: Jennifer Jacobs, Bill Foland, Wayne Ward, Ishita Srivastava<br />
+Responsibilities: Develop a mockup and early design for an automated system to analyze classroom discourse and teachers' use of talk moves in mathematics instruction
+
 `2012-2016`
 **Graduate Research Assistant** Institute of Cognitive Science and School of Education, University of Colorado Boulder
 
@@ -188,6 +196,32 @@ Project: Measuring Student Growth Using Student Learning Outcomes<br />
 Faculty Director: Derek Briggs<br />
 Primary Collaborators: Fred Peck, Jessica Alzen, Rajendra Chattergoon, David Webb<br />
 Responsibilities: Provided content expertise and professional development and led research efforts with Kindergarten and Grade 1 teachers
+
+`2011`
+**Investigator** School of Education, University of Colorado Boulder
+
+Project: Middle School Mathematics Teachers' Perceptions of the Common Core State Standards in Statistics<br />
+Collaborator: Susan Thomas<br />
+Responsibilities: Interviewed and observed two middle school math teachers to explore perceptions and interpretations of new Common Core State Standards
+
+`2010-2011`
+**Graduate Research Assistant** School of Education, University of Colorado Boulder
+
+Faculty Advisor: Finbarr Sloane<br />
+Collaborator: Nathan Dadey<br />
+Responsibilities: Analyzed ECLS-K dataset using R and performed homeschooling literature review
+
+`2001-2002`
+**Graduate Research Assistant** Department of Geography, University of Northern Iowa
+
+Faculty Advisor: Michael Emch<br />
+Responsibilities: Coordinated STORM Project outreach and internet distribution efforts of geospatial data
+
+`2000`
+**Graduate Research Assistant** Department of Geography, University of Northern Iowa
+
+Faculty Advisor: Dennis Dahms<br />
+Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project for Wyoming and Colorado
 
 ## Service activity
 
