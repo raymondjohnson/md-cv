@@ -10,14 +10,14 @@ Mathematics educator
 <div id="webaddress">
 <a href="mailto:raymond@mathed.net">raymond@mathed.net</a>
 |
-<i class="fa fa-github"></i><a href="http://github.com/raymondjohnson">raymondjohnson</a>
+<i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/raymondcjohnson/">raymondcjohnson</a>
 |
-<i class="fa fa-twitter"></i><a href="http://twitter.com/MathEdnet">MathEdnet</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a>
 </div>
 
 ## Currently
 
-I'm the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, through being a communicator and by serving our professional mathematics teaching and leadership organizations.
+I'm the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, by being a communicator and by serving our professional mathematics teaching and leadership organizations.
 
 ## Employment
 
@@ -42,7 +42,7 @@ Emphasis in Mathematics Education, David C. Webb, Advisor<br>
 Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_
 
 `2000-2002`
-__University of Northern Iowa__ Graduate Program Certificate in GIS and Cartography
+__University of Northern Iowa__ Graduate Program Certificate, GIS and Cartography
 
 Emphases in land cover analysis, alpine geography, data storage and distribution
 
@@ -55,16 +55,17 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ## Publications
 
-### Journals
+### journals
 
 `2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. <http://doi.org/10.1007/s10857-015-9338-3>
 
 `2016` Peck, F., Alzen, J., Briggs, D., & **Johnson, R.** (2016). Developing purposeful questions and analyzing student reasoning: Two tools. *Colorado Mathematics Teacher, 49*(1), (pp. 18-24) <https://digscholarship.unco.edu/cmt/vol49/iss1/5/>
 
-### Book chapters
+### book chapters
+
 `2016` **Johnson, R.** (2016) A few thoughts from NCTM 2015. In I. Horn & T. Cardone (Eds.), *The best of the math teacher blogs 2015* (pp. 147-148)
 
-### Conference proceedings
+### conference proceedings
 
 `2016` Bell, P., Severance, S., Penuel, W. R., Sumner, T., Mommandi, W., Quigley, D., Van Horne, K., **Johnson, R.**, Stromholt, S., Lakhani, H., Davis, K., Bell, A., & Bang, M. (2016). Researchers and practitioners co-designing for expansive science learning and educational equity. In C-K. Looi, J. L. Polman, P. Reimann, & U. Cress (Eds.), *12th International Conference of the Learning Sciences, ICLS 2016: Transforming Learning, Empowering Learners, Proceedings* (Vol. 2, pp. 1128-1135). International Society of the Learning Sciences (ISLS). <https://repository.isls.org/handle/1/383>
 
@@ -74,7 +75,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2014` Cole, M., Engestrom, Y., Sannino, A., Gutierrez, K., Packer, M., Penuel, W. R., **Johnson, R.**, Severance, S., Leary, H., & Miller, S. (2014). Toward an argumentative grammar for sociocultural/cultural-historical activity approaches to design research. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, K. O’Connor, T. Lee, & L. D’Amico (Eds.), *Learning and becoming in practice: The International Conference of the Learning Sciences (ICLS) 2014, Volume 3* (pp.  1254-1263). Boulder, CO: International Society of the Learning Sciences. Retrieved from <http://www.isls.org/icls2014/Proceedings.html> and <http://mathed.net/files/2014-ICLS-TowardanArgumentativeGrammarforCHATDesignResearch.pdf>
 
-### Reports
+### reports
 
 `2016` Penuel, W. R. & **Johnson, R.** (2016) Review of "*Continued Progress: Promising Evidence on Personalized Learning*." Boulder, CO: National Education Policy Center. Retrieved from <http://nepc.colorado.edu/thinktank/review-personalized-learning>
 
@@ -82,7 +83,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2015` Briggs, D. C., Diaz-Bilello, E., Peck, F., Alzen, J., Chattergoon, R., & **Johnson,  R.** (2015). Using a learning progression framework to assess and evaluate student growth (Working Paper). Retrieved from <http://www.colorado.edu/cadre/selected-reports-and-publications>
 
-### Theses
+### theses
 
 `2018` **Johnson, R.** (2018). *Designing for Consensus and the Standards for Mathematical Practice*. (Unpublished dissertation). University of Colorado Boulder, Boulder, CO. <https://search.proquest.com/openview/7c166a1731165bf9a510c733a7ed9c7c/1>
 
@@ -98,7 +99,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ## Presentations
 
-### Conference sessions
+### conference sessions
 
 `2021` **Johnson, R.** (2021, April). *Are you thinking what I'm thinking?* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
 
@@ -154,7 +155,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2001` **Johnson, R.** (2001, October). *Remote Sensing Outreach of the University of Northern Iowa STORM Project.* Presentation for the 2011 Iowa Geographic Information Council (IGIC), Iowa City, IA.
 
-### Posters
+### posters
 
 `2016` Severance, S., Leary, H., **Johnson, R.**, & Quigley, D. (2016, April). *Developing Teacher Expertise in the Next Generation Science Standards Through Curricular Co-Design.* Structured poster presentation at the Annual Meeting of the American Educational Research Association, Washington, D.C.
 
@@ -170,7 +171,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2011` **Johnson, R.** & Thomas, S. (2011, April). *What's the Probability of Teaching Statistics?* Poster presented for the 2011 Spring Qualitative Methods Class Poster Session, School of Education, University of Colorado Boulder, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124840>
 
-### Workshops
+### workshops
 
 `2014` **Johnson, R.** (2014, July). *Making Social Media More Than Merely Social: Implications for Teacher Professionalism.* Invited presentation for the Global Math Department, <https://www.bigmarker.com/GlobalMathDept/22July2014>
 
@@ -245,7 +246,7 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 ## Teaching activity
 
-### University
+### higher ed
 
 `2011-2015`
 **Basic Statistical Methods** School of Education, University of Colorado Boulder (4 semesters, both as upper-level undergraduate and as a graduate course)
@@ -265,7 +266,7 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 `1999`
 **Introduction to Statistics** Department of Mathematics, University of Northern Iowa (Summer semester; teaching assistant for Mark Ecker)
 
-### K-12
+### k12
 
 `2003-2009`
 **Algebra 1** South Park High School and Florence High School
@@ -289,15 +290,16 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 * Python
 * R
+* Bash
+* PHP
 * HTML and CSS
 * Markdown
-* PHP
 * LaTeX
-* Bash
 * Linux
 * Apache
 * Microsoft 365
 * Smartsheet
+* MemberClicks
 * Audio, photo, and video editing
 
 ## Areas of expertise
@@ -363,7 +365,7 @@ American Educational Research Association
 
 ## Graduate coursework
 
-### Mathematics education
+### mathematics education
 
 `2010-2016` **Readings in Math Ed (Program Area Seminar)** (EDUC 6925)
 
@@ -385,7 +387,7 @@ American Educational Research Association
 
 `Fall 2009` **Nature of Mathematics and Mathematics Education** with David Webb (EDUC 5317)
 
-### Assessment and measurement
+### assessment and measurement
 
 `Fall 2012` **Advances in the Assessment of Student Learning** with Erin Furtak (EDUC 8740)
 
@@ -395,7 +397,7 @@ American Educational Research Association
 
 `Spring 2010` **Assessment of Mathematics and Science Education** with David Webb (EDUC 5706)
 
-### Other
+### other
 
 `Fall 2014` **Purposes and Methods of Design Research** with William Penuel and Eve Manz (EDUC 8348)
 
@@ -426,13 +428,13 @@ American Educational Research Association
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:raymond@mathed.net">raymond@mathed.net</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:raymond@mathed.net">raymond@mathed.net</a>
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a>
 * <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/raymondcjohnson/">LinkedIn</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=DQawSoYAAAAJ">Google scholar</a>
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-7452-5983">ORCiD</a>
 * <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Raymond_Johnson/634174">figshare</a>
+* <i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a>
 
 ## References
 
