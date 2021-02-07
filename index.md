@@ -173,7 +173,11 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### workshops
 
-`2014` **Johnson, R.** (2014, July). *Making Social Media More Than Merely Social: Implications for Teacher Professionalism.* Invited presentation for the Global Math Department, <https://www.bigmarker.com/GlobalMathDept/22July2014>
+`2021` **Johnson, R.** (2021, January 25). *Best, first instruction in secondary mathematics* [Professional development]. Crowley County School District RE-1J, Online/Virtual.
+
+`2021` **Johnson, R.** (2021, January 25). *Best, first instruction in elementary mathematics* [Professional development]. Crowley County School District RE-1J, Online/Virtual.
+
+`2014` **Johnson, R.** (2014, July 22). *Making social media more than merely social: Implications for teacher professionalism.* Invited presentation for the Global Math Department, <https://www.bigmarker.com/GlobalMathDept/22July2014>
 
 ## Research activity
 
