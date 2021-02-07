@@ -2,15 +2,17 @@
 layout: cv
 title: Raymond Johnson's CV
 ---
+
 # Raymond Johnson
+
 Mathematics educator
 
 <div id="webaddress">
 <a href="mailto:raymond@mathed.net">raymond@mathed.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a>
+<i class="fa fa-github"></i><a href="http://github.com/raymondjohnson">raymondjohnson</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/MathEdnet">MathEdnet</a>
+<i class="fa fa-twitter"></i><a href="http://twitter.com/MathEdnet">MathEdnet</a>
 </div>
 
 ## Currently
@@ -19,7 +21,7 @@ I'm the Mathematics Content Specialist at the [Colorado Department of Education]
 
 ## Employment
 
-`2016-` 
+`2016-`
 __Colorado Department of Education__ Mathematics Content Specialist
 
 `2010-2016`
@@ -36,7 +38,7 @@ __Fremont School District Re-2__ High School Mathematics Teacher
 `2009-2018`
 __University of Colorado Boulder__ Ph.D., Education &mdash; Curriculum and Instruction
 
-Emphasis in Mathematics Education, David C. Webb, Advisor<br />
+Emphasis in Mathematics Education, David C. Webb, Advisor<br>
 Dissertation: _Designing for Consensus and the Standards for Mathematical Practice_
 
 `2000-2002`
@@ -47,8 +49,8 @@ Emphases in land cover analysis, alpine geography, data storage and distribution
 `1996-1999`
 __University of Northern Iowa__ B.A., Mathematics
 
-Emphasis in Secondary Mathematics Teaching, Bonnie Litwiller, Advisor<br />
-Presidential Scholar (Awarded to top 15 of approximately 3,000 incoming freshmen)<br />
+Emphasis in Secondary Mathematics Teaching, Bonnie Litwiller, Advisor<br>
+Presidential Scholar (Awarded to top 15 of approximately 3,000 incoming freshmen)<br>
 Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edward Rathmell, Thesis Advisor
 
 ## Publications
@@ -93,6 +95,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 -->
+
 ## Presentations
 
 ### Conference sessions
@@ -176,51 +179,51 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 `2015-2017`
 **Graduate Research Assistant** Institute of Cognitive Science, University of Colorado Boulder
 
-Project: Talk-Back<br />
-Principal Investigators: Tamara Sumner, Mimi Recker, William Penuel<br />
-Primary Collaborators: Jennifer Jacobs, Bill Foland, Wayne Ward, Ishita Srivastava<br />
+Project: Talk-Back<br>
+Principal Investigators: Tamara Sumner, Mimi Recker, William Penuel<br>
+Primary Collaborators: Jennifer Jacobs, Bill Foland, Wayne Ward, Ishita Srivastava<br>
 Responsibilities: Develop a mockup and early design for an automated system to analyze classroom discourse and teachers' use of talk moves in mathematics instruction
 
 `2012-2016`
 **Graduate Research Assistant** Institute of Cognitive Science and School of Education, University of Colorado Boulder
 
-Project: Inquiry Hub (NSF Award #1147590)<br />
-Principal Investigators: Tamara Sumner, William Penuel (Co-PI)<br />
-Primary Collaborators: Heather Leary, Jennifer Jacobs, Samuel Severance, Holly Devaul, Cathy Martin, Patty Kincaid<br />
+Project: Inquiry Hub (NSF Award #1147590)<br>
+Principal Investigators: Tamara Sumner, William Penuel (Co-PI)<br>
+Primary Collaborators: Heather Leary, Jennifer Jacobs, Samuel Severance, Holly Devaul, Cathy Martin, Patty Kincaid<br>
 Reponsibilities: Provided algebra content expertise, professional develoopment facilitation, research assistance in a research-practice partnership, and project management duties (Fall 2015 to Spring 2016)
 
 `2014-2015`
 **Graduate Research Assistant** Center for Assessment, Design, Research and Evaluation (CADRE), School of Education, University of Colorado Boulder
 
-Project: Measuring Student Growth Using Student Learning Outcomes<br />
-Faculty Director: Derek Briggs<br />
-Primary Collaborators: Fred Peck, Jessica Alzen, Rajendra Chattergoon, David Webb<br />
+Project: Measuring Student Growth Using Student Learning Outcomes<br>
+Faculty Director: Derek Briggs<br>
+Primary Collaborators: Fred Peck, Jessica Alzen, Rajendra Chattergoon, David Webb<br>
 Responsibilities: Provided content expertise and professional development and led research efforts with Kindergarten and Grade 1 teachers
 
 `2011`
 **Investigator** School of Education, University of Colorado Boulder
 
-Project: Middle School Mathematics Teachers' Perceptions of the Common Core State Standards in Statistics<br />
-Collaborator: Susan Thomas<br />
+Project: Middle School Mathematics Teachers' Perceptions of the Common Core State Standards in Statistics<br>
+Collaborator: Susan Thomas<br>
 Responsibilities: Interviewed and observed two middle school math teachers to explore perceptions and interpretations of new Common Core State Standards
 
 `2010-2011`
 **Graduate Research Assistant** School of Education, University of Colorado Boulder
 
-Faculty Advisor: Finbarr Sloane<br />
-Collaborator: Nathan Dadey<br />
+Faculty Advisor: Finbarr Sloane<br>
+Collaborator: Nathan Dadey<br>
 Responsibilities: Analyzed ECLS-K dataset using R and performed homeschooling literature review
 
 `2001-2002`
 **Graduate Research Assistant** Department of Geography, University of Northern Iowa
 
-Faculty Advisor: Michael Emch<br />
+Faculty Advisor: Michael Emch<br>
 Responsibilities: Coordinated STORM Project outreach and internet distribution efforts of geospatial data
 
 `2000`
 **Graduate Research Assistant** Department of Geography, University of Northern Iowa
 
-Faculty Advisor: Dennis Dahms<br />
+Faculty Advisor: Dennis Dahms<br>
 Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project for Wyoming and Colorado
 
 ## Service activity
@@ -239,7 +242,6 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 ``2014``
 **Contributor** for the "Guides to the Colorado Academic Standards in Mathematics" (a publication of the Colorado Department of Education)
-
 
 ## Teaching activity
 
@@ -346,6 +348,7 @@ Training accreditation for Wikimedia UK, the national chapter of the Wikimedia F
 
 Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
 -->
+
 ## Memberships
 
 National Council of Teachers of Mathematics
