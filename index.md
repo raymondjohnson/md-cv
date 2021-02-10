@@ -173,9 +173,17 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### workshops
 
-`2021` **Johnson, R.** (2021, January 25). *Best, first instruction in secondary mathematics* [Professional development]. Crowley County School District RE-1J, Online/Virtual.
+`2021` **Johnson, R.** (2021, January 25). *Best, first instruction in secondary mathematics* [Professional development]. Crowley County School District RE-1J, online/virtual.
 
-`2021` **Johnson, R.** (2021, January 25). *Best, first instruction in elementary mathematics* [Professional development]. Crowley County School District RE-1J, Online/Virtual.
+`2021` **Johnson, R.** (2021, January 25). *Best, first instruction in elementary mathematics* [Professional development]. Crowley County School District RE-1J, online/virtual.
+
+`2020` **Johnson, R.** (2020, August 5). *What to look for in the PreK-2 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
+
+`2020` **Johnson, R.** (2020, August 5). *What to look for in the 6-8 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
+
+`2020` **Johnson, R.** (2020, August 5). *What to look for in the 3-5 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
+
+`2020` **Johnson, R.** (2020, August 5). *What to look for in the 9-12 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
 
 `2014` **Johnson, R.** (2014, July 22). *Making social media more than merely social: Implications for teacher professionalism.* Invited presentation for the Global Math Department, <https://www.bigmarker.com/GlobalMathDept/22July2014>
 
