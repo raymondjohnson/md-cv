@@ -153,7 +153,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2011` **Johnson, R.** (2011, September). *A Learning Progression for Multiplying, Dividing, and Factoring Polynomials.* Presentation for the 3rd International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124837>
 
-`2001` **Johnson, R.** (2001, October). *Remote Sensing Outreach of the University of Northern Iowa STORM Project.* Presentation for the 2011 Iowa Geographic Information Council (IGIC), Iowa City, IA.
+`2001` **Johnson, R.** (2001, October). *Remote Sensing Outreach of the University of Northern Iowa STORM Project.* Presentation for the 2001 Iowa Geographic Information Council (IGIC), Iowa City, IA.
 
 ### posters
 
