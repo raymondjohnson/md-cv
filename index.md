@@ -125,7 +125,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2017` **Johnson, R.** (2017, September). *Colorado Mathematics Standards Review and Revision.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2017` **Johnson, R.** (2017, April). Dissertation stuff? Presentation at the Research Conference of the National Council of Teachers of Mathematics, San Antonio, TX.
+`2017` **Johnson, R.** (2017, April). *Designing for Consensus Around the Standards for Mathematical Practice.* Presentation at the Research Conference of the National Council of Teachers of Mathematics, San Antonio, TX.
 
 `2016` **Johnson, R.** (2016, September). *Share Your Lesson Planning, Not Your Lesson Plans.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
