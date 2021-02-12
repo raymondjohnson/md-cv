@@ -107,6 +107,8 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2020` **Johnson, R.**, Peck, F., & Webb, D. C. (2020, April, cancelled due to COVID-19). *Making Meaning of Systems of Equations with Contexts and Representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Chicago, IL.
 
+`2019` **Johnson, R.** (2019, August). *Teacher and student practices: A framework for understanding good mathematics teaching.* Presentation at the CO-MTSS Summit, Grand Junction, CO.
+
 `2019` **Johnson, R.** (2019, July). *What to Look for in the 2020 Colorado Academic Standards.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
 `2019` **Johnson, R.** (2019, July). *So You Think You Know the SMPs?* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
@@ -171,7 +173,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2011` **Johnson, R.** & Thomas, S. (2011, April). *What's the Probability of Teaching Statistics?* Poster presented for the 2011 Spring Qualitative Methods Class Poster Session, School of Education, University of Colorado Boulder, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124840>
 
-### workshops
+### workshops and talks
 
 `2021` **Johnson, R.** (2021, January 25). *Best, first instruction in secondary mathematics* [Professional development]. Crowley County School District RE-1J, online/virtual.
 
@@ -184,6 +186,26 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 `2020` **Johnson, R.** (2020, August 5). *What to look for in the 3-5 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
 
 `2020` **Johnson, R.** (2020, August 5). *What to look for in the 9-12 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
+
+`2020` **Johnson, R.** (2020, June 3). *Changes to look for and ways of looking at coherence in the 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virutal.
+
+`2020` **Johnson, R.** (2020, March 6). *Changes to look for and connecting concepts and skills in the 2020 Colorado Academic Standards* [Professional development]. Elicott School District.
+
+`2020` **Johnson, R.** (2020, February 14). *Changes to look for and connecting concepts and skills in the 2020 Colorado Academic Standards* [Professional development]. Saddle Ranch Elementary School, Douglas County School District.
+
+`2020` **Johnson, R.** (2020, January 27). * * [Professional development]. Crowley County School District RE-1J.
+
+`2019` **Johnson, R.** (2019, July 29). *Best, first instruction in elementary mathematics: Building a standards-based framework of teacher and student practices* [Professional development]. Douglas County School District.
+
+`2019` **Johnson, R.** (2019, July 29). *Best, first instruction in secondary mathematics: Building a standards-based framework of teacher and student practices* [Professional development]. Douglas County School District.
+
+`2019` **Johnson, R.** (2019, May 30). *Best, first instruction in elementary mathematics: Building a standards-based framework of teacher and student practices* [Professional development]. Douglas County School District.
+
+`2019` **Johnson, R.** (2019, May 30). *Best, first instruction in secondary mathematics: Building a standards-based framework of teacher and student practices* [Professional development]. Douglas County School District.
+
+`2018` **Johnson, R.**, Bejarano, L., & Rogers, L. (2018, June 4-6). *Best, first instruction for mathematics*. Loveland, CO.
+
+`2017` **Johnson, R.** (2017, May 18). *Objects, processes, and the reification of mathematical ideas* [Invited talk]. Colorado Math Awards, Denver, CO.
 
 `2014` **Johnson, R.** (2014, July 22). *Making social media more than merely social: Implications for teacher professionalism.* Invited presentation for the Global Math Department, <https://www.bigmarker.com/GlobalMathDept/22July2014>
 
@@ -252,6 +274,14 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 `2016-`
 **Board Member** for the Colorado Council of Teachers of Mathematics (NCTM affiliate)
+
+`2016-`
+**Steering Committee Member** for the Colorado Math Awards
+
+
+
+`2019`
+**Contributor** to the Colorado Rockies for Math Day (May 9, 2019)
 
 ``2014``
 **Contributor** for the "Guides to the Colorado Academic Standards in Mathematics" (a publication of the Colorado Department of Education)
