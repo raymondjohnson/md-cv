@@ -103,75 +103,79 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2021` **Johnson, R.** (2021, April). *Are you thinking what I'm thinking?* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
 
-`2021` Peck, F., **Johnson, R.**, & Webb, D. C. (2021, April). *Making Algebra Meaningful: The Area Model from Arithmetic to Algebra (to Calculus!).* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
+`2021` Peck, F., **Johnson, R.**, & Webb, D. C. (2021, April). *Making algebra meaningful: The area model from arithmetic to algebra (to calculus!).* Forthcoming presentation at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
 
-`2020` **Johnson, R.**, Peck, F., & Webb, D. C. (2020, April, cancelled due to COVID-19). *Making Meaning of Systems of Equations with Contexts and Representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Chicago, IL.
+`2020` **Johnson, R.**, Peck, F., & Webb, D. C. (2020, April, cancelled due to COVID-19). *Making meaning of systems of equations with contexts and representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Chicago, IL.
 
 `2019` **Johnson, R.** (2019, August). *Teacher and student practices: A framework for understanding good mathematics teaching.* Presentation at the CO-MTSS Summit, Grand Junction, CO.
 
-`2019` **Johnson, R.** (2019, July). *What to Look for in the 2020 Colorado Academic Standards.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2019` **Johnson, R.** (2019, July). *What to look for in the 2020 Colorado Academic Standards.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2019` **Johnson, R.** (2019, July). *So You Think You Know the SMPs?* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2019` **Johnson, R.** (2019, July). *So you think you know the SMPs?* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2019` Webb, D. C., **Johnson, R.**, & Peck, F. (2019, April). *Making Logarithms Meaningful through Progressive Formalization.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, San Diego, CA.
+`2019` Webb, D. C., **Johnson, R.**, & Peck, F. (2019, April). *Making logarithms meaningful through progressive formalization.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, San Diego, CA.
 
-`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades P-2 Mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades P-2 mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades 3-5 Mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades 3-5 mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades 6-8 Mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2018` **Johnson, R.** & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: Grades 6-8 mathematics.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2018` Funderburk, J., **Johnson, R.**, & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: High School.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2018` Funderburk, J., **Johnson, R.**, & Harrelson, C. (2018, August). *2020 Colorado Academic Standards: High school.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2018` Peck, F., **Johnson, R.**, & Webb, D. C. (2018, April). *Building Meaning into Algebra Equations with Multiple Representations and Progressive Formalization.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Washington, D.C.
+`2018` Peck, F., **Johnson, R.**, & Webb, D. C. (2018, April). *Building meaning into algebra equations with multiple representations and progressive formalization.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Washington, D.C.
 
-`2017` **Johnson, R.** (2017, September). *Colorado Mathematics Standards Review and Revision.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2017` **Johnson, R.** (2017, September). *Colorado Mathematics Standards review and revision.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2017` **Johnson, R.** (2017, April). *Designing for Consensus Around the Standards for Mathematical Practice.* Presentation at the Research Conference of the National Council of Teachers of Mathematics, San Antonio, TX.
+`2017` **Johnson, R.** (2017, April). *Designing for consensus around the Standards for Mathematical Practice.* Presentation at the Research Conference of the National Council of Teachers of Mathematics, San Antonio, TX.
 
-`2016` **Johnson, R.** (2016, September). *Share Your Lesson Planning, Not Your Lesson Plans.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
+`2016` **Johnson, R.** (2016, September). *Share your lesson planning, not your lesson plans.* Presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO.
 
-`2016` **Johnson, R.**, Peck, F., & Webb, D. C. (2016, April). *Modeling Your Way to Understanding with Realistic Mathematics Education.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, San Francisco, CA.
+`2016` **Johnson, R.**, Sumner, T., Ostwald, J., & Quigley, D. (2016, June). *EcoSurvey: A Tool for Mapping Your Local Ecosystem.* Presentation at the Annual Conference of the International Society for Technology in Education, Denver, CO.
 
-`2016` **Johnson, R.**, Peck, F., Briggs, D. C., & Alzen, J. (2016, April). *A Unified Framework of Teachers' Conceptions of Learning and Assessment.* Interactive paper presentation at the Research Conference of the National Council of Teachers of Mathematics, San Francisco, CA.
+`2016` **Johnson, R.**, Peck, F., & Webb, D. C. (2016, April). *Modeling your way to understanding with Realistic Mathematics Education.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, San Francisco, CA.
 
-`2015` Bejarano, L., Amidon, T., **Johnson, R.**, McGarry, A., & Turner, C. (2015, September). *Better Teaching Through Online Collaboration: Twitter, Blogs, and the Web.* Invited presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.2082655>
+`2016` **Johnson, R.**, Peck, F., Briggs, D. C., & Alzen, J. (2016, April). *A unified framework of teachers' conceptions of learning and assessment.* Interactive paper presentation at the Research Conference of the National Council of Teachers of Mathematics, San Francisco, CA.
 
-`2015` **Johnson, R.**, Peck, F., Campbell, W., Grover, R., Miller, S., Scroggins, A., & Webb, D. C. (2015, September). *An Orientation to Realistic Mathematics Education.* Opening plenary at the 5th International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082622>
+`2015` Bejarano, L., Amidon, T., **Johnson, R.**, McGarry, A., & Turner, C. (2015, September). *Better teaching through online collaboration: Twitter, blogs, and the web.* Invited presentation at the Annual Conference of the Colorado Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.2082655>
 
-`2015` Furtak, E. M., Cartun, A., Kizil, R. C., Chrzanowski, A. M., Grover, R., Heredia, S. C., **Johnson, R.**, McClelland, A., White, K. H. O. (2015, April). *Toward a Participation Metaphor for Formative Assessment.* Roundtable presentation at the Annual Meeting of the American Educational Research Association, Chicago, IL. <http://tinyurl.com/lkjahyu>
+`2015` **Johnson, R.**, Peck, F., Campbell, W., Grover, R., Miller, S., Scroggins, A., & Webb, D. C. (2015, September). *An orientation to Realistic Mathematics Education.* Opening plenary at the 5th International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082622>
 
-`2015` **Johnson, R.**, Martin, C., & Sauer, R. (2015, April). *Supporting Algebra 1 Teachers' Implementation of the CCSS: A Research + Practice Partnership.* Presentation at the Annual Conference of the National Council of Supervisors of Mathematics, Boston, MA. <http://dx.doi.org/10.6084/m9.figshare.1378968>
+`2015` Furtak, E. M., Cartun, A., Kizil, R. C., Chrzanowski, A. M., Grover, R., Heredia, S. C., **Johnson, R.**, McClelland, A., White, K. H. O. (2015, April). *Toward a participation metaphor for formative assessment.* Roundtable presentation at the Annual Meeting of the American Educational Research Association, Chicago, IL. <http://tinyurl.com/lkjahyu>
 
-`2014` Wray, J., Ani, K., Black, A., Hunter, C. **Johnson, R.**, Meyer, D., & Nowak, K. (2014, April). *Teachers Leveraging Technology in the Classroom.* Invited panelist for the Annual Meeting of the National Council of Teachers of Mathematics, New Orleans, LA.
+`2015` **Johnson, R.**, Martin, C., & Sauer, R. (2015, April). *Supporting Algebra 1 teachers' implementation of the CCSS: A research + practice partnership.* Presentation at the Annual Conference of the National Council of Supervisors of Mathematics, Boston, MA. <http://dx.doi.org/10.6084/m9.figshare.1378968>
 
-`2014` **Johnson, R.** (2014, April). *Math Teachers and Social Media: Professional Collaboration or Support Group?* Presentation for the Annual Meeting of the National Council of Teachers of Mathematics, New Orleans, LA. <http://dx.doi.org/10.6084/m9.figshare.2087740>
+`2014` Wray, J., Ani, K., Black, A., Hunter, C. **Johnson, R.**, Meyer, D., & Nowak, K. (2014, April). *Teachers leveraging technology in the classroom.* Invited panelist for the Annual Meeting of the National Council of Teachers of Mathematics, New Orleans, LA.
 
-`2013` **Johnson, R.** & Thomas, S. (2013, April). *Statistical Reasoning in the Middle School.* Gallery workshop for the Annual Meeting of the National Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.3124828>
+`2014` **Johnson, R.** (2014, April). *Math teachers and social media: Professional collaboration or support group?* Presentation for the Annual Meeting of the National Council of Teachers of Mathematics, New Orleans, LA. <http://dx.doi.org/10.6084/m9.figshare.2087740>
 
-`2013` Abels, M., Matassa, M. S., & **Johnson, R.** (2013, April). *Making Sense of Algebra with Realistic Mathematics Education.* Gallery workshop for the Annual Meeting of the National Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.3124831>
+`2013` **Johnson, R.** & Thomas, S. (2013, April). *Statistical reasoning in the middle school.* Gallery workshop for the Annual Meeting of the National Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.3124828>
 
-`2011` **Johnson, R.** (2011, November). *Efficient Polynomial Multiplication, Division, Factoring, and Completing the Square.* Gallery workshop for the Regional Conference of the National Council of Teachers of Mathematics, Albuquerque, NM. <http://dx.doi.org/10.6084/m9.figshare.3124834>
+`2013` Abels, M., Matassa, M. S., & **Johnson, R.** (2013, April). *Making sense of algebra with Realistic Mathematics Education.* Gallery workshop for the Annual Meeting of the National Council of Teachers of Mathematics, Denver, CO. <http://dx.doi.org/10.6084/m9.figshare.3124831>
 
-`2011` **Johnson, R.** (2011, September). *A Learning Progression for Multiplying, Dividing, and Factoring Polynomials.* Presentation for the 3rd International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124837>
+`2011` **Johnson, R.** (2011, November). *Efficient polynomial multiplication, division, factoring, and completing the square.* Gallery workshop for the Regional Conference of the National Council of Teachers of Mathematics, Albuquerque, NM. <http://dx.doi.org/10.6084/m9.figshare.3124834>
 
-`2001` **Johnson, R.** (2001, October). *Remote Sensing Outreach of the University of Northern Iowa STORM Project.* Presentation for the 2001 Iowa Geographic Information Council (IGIC), Iowa City, IA.
+`2011` **Johnson, R.** (2011, September). *A learning progression for multiplying, dividing, and factoring polynomials.* Presentation for the 3rd International Realistic Mathematics Education Conference, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124837>
+
+`2001` **Johnson, R.** (2001, October). *Remote sensing outreach of the University of Northern Iowa STORM Project.* Presentation for the 2001 Iowa Geographic Information Council (IGIC), Iowa City, IA.
 
 ### posters
 
-`2016` Severance, S., Leary, H., **Johnson, R.**, & Quigley, D. (2016, April). *Developing Teacher Expertise in the Next Generation Science Standards Through Curricular Co-Design.* Structured poster presentation at the Annual Meeting of the American Educational Research Association, Washington, D.C.
+`2016` Sumner, T., Penuel, W. R., Van Horne, K., Severance, S., Quigley, D., **Johnson, R.**, Kincaid, P., Watkins, D., Devaul, H., & Ostwald, J. (2016, June). *Inquiry Hub Biology: Promoting agency and equity in Next Generation Science curriculum.* Poster presentation at the Annual Conference of the International Society for Technology in Education, Denver, CO.
 
-`2015` Sumner, T., Penuel, W. R., Severance, S., **Johnson, R.**, Quigley, D. (2015, September). *Inquiry Hub: Ecosystems: Digital Curriculum for Citizen Science from a Design Research Partnership.* Poster at the 7th Annual Symposium on STEM Education, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082628>
+`2016` Severance, S., Leary, H., **Johnson, R.**, & Quigley, D. (2016, April). *Developing teacher expertise in the Next Generation Science Standards through curricular co-design.* Structured poster presentation at the Annual Meeting of the American Educational Research Association, Washington, D.C.
 
-`2014` **Johnson, R.**, Leary, H., Severance, S., Penuel, W., Sumner, T., Devaul, H., & Dibie, O. (2014, September). *Capacity for Customization: Algebra Teachers, Curriculum Design, and the Common Core.* Poster at the 6th Annual Symposium on STEM Education, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.1218433>
+`2015` Sumner, T., Penuel, W. R., Severance, S., **Johnson, R.**, Quigley, D. (2015, September). *Inquiry Hub: Ecosystems: Digital curriculum for citizen science from a design research partnership.* Poster at the 7th Annual Symposium on STEM Education, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.2082628>
 
-`2014` **Johnson, R.** (2014, April). *Aligning Mathematical Tasks to the Standards for Mathematical Practice.* Poster for the Research Conference of the National Council of Teachers of Mathematics, New Orleans, LA. <http://dx.doi.org/10.6084/m9.figshare.3124822>
+`2014` **Johnson, R.**, Leary, H., Severance, S., Penuel, W., Sumner, T., Devaul, H., & Dibie, O. (2014, September). *Capacity for customization: Algebra teachers, curriculum design, and the Common Core.* Poster at the 6th Annual Symposium on STEM Education, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.1218433>
 
-`2014` **Johnson, R.**, Leary, H., & Penuel, W. (2014, April). *Supporting Common Core-Driven Curriculum Adaptations for High School Algebra.* Poster for the SIG-RME poster session at the Annual Meeting of the American Educational Research Association, Philadelphia, PA. <https://dx.doi.org/10.6084/m9.figshare.3124825>
+`2014` **Johnson, R.** (2014, April). *Aligning mathematical tasks to the Standards for Mathematical Practice.* Poster for the Research Conference of the National Council of Teachers of Mathematics, New Orleans, LA. <http://dx.doi.org/10.6084/m9.figshare.3124822>
 
-`2013` Leary, H., Severance, S., & **Johnson, R.** (2013, September). *Customizing Curriculum and Digital Resources for STEM Educators.* Poster for the 5th Annual Symposium on STEM Education, Boulder, CO.
+`2014` **Johnson, R.**, Leary, H., & Penuel, W. (2014, April). *Supporting Common Core-driven curriculum adaptations for high school algebra.* Poster for the SIG-RME poster session at the Annual Meeting of the American Educational Research Association, Philadelphia, PA. <https://dx.doi.org/10.6084/m9.figshare.3124825>
 
-`2011` **Johnson, R.** & Thomas, S. (2011, April). *What's the Probability of Teaching Statistics?* Poster presented for the 2011 Spring Qualitative Methods Class Poster Session, School of Education, University of Colorado Boulder, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124840>
+`2013` Leary, H., Severance, S., & **Johnson, R.** (2013, September). *Customizing curriculum and digital resources for STEM educators.* Poster for the 5th Annual Symposium on STEM Education, Boulder, CO.
+
+`2011` **Johnson, R.** & Thomas, S. (2011, April). *What's the probability of teaching statistics?* Poster presented for the 2011 Spring Qualitative Methods Class Poster Session, School of Education, University of Colorado Boulder, Boulder, CO. <http://dx.doi.org/10.6084/m9.figshare.3124840>
 
 ### workshops and talks
 
@@ -179,7 +183,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 `2021` **Johnson, R.** (2021, January 25). *Best, first instruction in elementary mathematics* [Professional development]. Crowley County School District RE-1J, online/virtual.
 
-`2020` **Johnson, R.** (2020, August 5). *What to look for in the PreK-2 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
+`2020` **Johnson, R.** (2020, August 5). *What to look for in the preK-2 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
 
 `2020` **Johnson, R.** (2020, August 5). *What to look for in the 6-8 2020 Colorado Academic Standards* [Professional development]. Adams 14 School District, online/virtual.
 
