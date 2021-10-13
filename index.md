@@ -57,6 +57,8 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### journals
 
+`2021` Peck, F., **Johnson, R.**, Briggs, D., & Alzen, J. (2021). Toward learning trajectory-based instruction: A framework of conceptions of learning and assessment. *School Science and Mathematics,* ahead of print. <https://doi.org/10.1111/ssm.12489>
+
 `2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. <http://doi.org/10.1007/s10857-015-9338-3>
 
 `2016` Peck, F., Alzen, J., Briggs, D., & **Johnson, R.** (2016). Developing purposeful questions and analyzing student reasoning: Two tools. *Colorado Mathematics Teacher, 49*(1), (pp. 18-24) <https://digscholarship.unco.edu/cmt/vol49/iss1/5/>
@@ -101,9 +103,13 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### conference sessions
 
-`2021` **Johnson, R.** (2021, April). *Are you thinking what I'm thinking?* Forthcoming gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
+`2021` **Johnson, R.**, Peck, F., & Webb, D. C. (2021, September, cancelled due to COVID-19). *Making meaning of systems of equations with contexts and representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Atlanta, GA.
 
-`2021` Peck, F., **Johnson, R.**, & Webb, D. C. (2021, April). *Making algebra meaningful: The area model from arithmetic to algebra (to calculus!).* Forthcoming presentation at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
+`2021` Bruno, J., & **Johnson, R.** (2021, June). *Centering equity and an asset mindset instruction.* Presentation at the Equity & Excellence Learning Series of the Colorado Department of Education, Online/Virtual.
+
+`2021` **Johnson, R.** (2021, April). *Are you thinking what I'm thinking?* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
+
+`2021` Peck, F., **Johnson, R.**, & Webb, D. C. (2021, April). *Making algebra meaningful: The area model from arithmetic to algebra (to calculus!).* Presentation at the Annual Meeting of the National Council of Teachers of Mathematics, Online/Virtual.
 
 `2020` **Johnson, R.**, Peck, F., & Webb, D. C. (2020, April, cancelled due to COVID-19). *Making meaning of systems of equations with contexts and representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Chicago, IL.
 
