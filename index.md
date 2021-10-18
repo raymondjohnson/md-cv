@@ -57,7 +57,7 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 
 ### journals
 
-`2021` Peck, F., **Johnson, R.**, Briggs, D., & Alzen, J. (2021). Toward learning trajectory-based instruction: A framework of conceptions of learning and assessment. *School Science and Mathematics,* ahead of print. <https://doi.org/10.1111/ssm.12489>
+`2021` Peck, F., **Johnson, R.**, Briggs, D., & Alzen, J. (2021). Toward learning trajectory-based instruction: A framework of conceptions of learning and assessment. *School Science and Mathematics, 121*(6) ,357-368. <https://doi.org/10.1111/ssm.12489>
 
 `2016` **Johnson, R.**, Severance, S., Penuel, W. R., & Leary, H. (2016). Teachers, tasks, and tensions: Lessons from a research-practice partnership. *Journal of Mathematics Teacher Education, 19*(2), 169-185. <http://doi.org/10.1007/s10857-015-9338-3>
 
