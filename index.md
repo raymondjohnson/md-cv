@@ -17,7 +17,7 @@ Mathematics educator
 
 ## Currently
 
-I'm the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, by being a communicator and by serving our professional mathematics teaching and leadership organizations.
+I am the Mathematics Content Specialist at the [Colorado Department of Education](https://www.cde.state.co.us) in Denver, Colorado. My role covers three broad responsibilities: (1) be a caretaker of the Colorado Academic Standards, supporting their understanding, implementation, and revision, (2) support high-quality mathematics instruction statewide, and (3) be the glue that holds Colorado's various mathematics educator communities together, by being a communicator and by serving our professional mathematics teaching and leadership organizations.
 
 ## Employment
 
@@ -102,6 +102,10 @@ Presidential Scholar Senior Thesis: *Math Wars: The Politics of Curriculum*, Edw
 ## Presentations
 
 ### conference sessions
+
+`2022` **Johnson, R.**, Peck, F., & Webb, D. C. (2022, September). *Making Meaning of Systems of Equations with Contexts and Representations.* Forthcoming presentation at the Annual Meeting of the National Council of Teachers of Mathematics, Los Angeles, CA.
+
+`2022` **Johnson, R.** (2022, June). *Making the Mathematics Standards Work for You.* Presentations at the Teaching and Learning CoLabs, Grand Junction, Greeley, and Pueblo, CO.
 
 `2021` **Johnson, R.**, Peck, F., & Webb, D. C. (2021, September, cancelled due to COVID-19). *Making meaning of systems of equations with contexts and representations.* Gallery workshop at the Annual Meeting of the National Council of Teachers of Mathematics, Atlanta, GA.
 
