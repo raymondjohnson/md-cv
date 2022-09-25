@@ -277,6 +277,9 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 ## Service activity
 
+`2020-`
+**Program Committee Member** for the Annual Meeting of the Association of State Supervisors of Mathematics
+
 `2018-`
 **Production Editor** for the *Colorado Mathematics Teacher* (a journal of the publication of the Colorado Department of Education)
 
@@ -291,8 +294,6 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 `2016-`
 **Steering Committee Member** for the Colorado Math Awards
-
-
 
 `2019`
 **Contributor** to the Colorado Rockies for Math Day (May 9, 2019)
@@ -369,9 +370,9 @@ Responsibilities: Assisted with INQUA Quaternary glacial extent mapping project 
 
 ## Projects
 
-### standards
-
 ### podcast
+
+I'm the co-host and editor of the _Setting the Standard_ podcast, a production of the Colorado Department of Education's Office of Standards and Instructional Support.
 
 ### blog
 
@@ -413,7 +414,11 @@ National Council of Teachers of Mathematics
 
 Colorado Council of Teachers of Mathematics
 
+Association of State Supervisors of Mathematics
+
 NCSM: Leadership in Mathematics Education
+
+TODOS: Mathematics for All
 
 Colorado Mathematics Leaders
 
@@ -491,10 +496,6 @@ American Educational Research Association
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0001-7452-5983">ORCiD</a>
 * <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Raymond_Johnson/634174">figshare</a>
 * <i class="fa fa-github"></i> <a href="http://github.com/raymondjohnson">raymondjohnson</a>
-
-## References
-
-Available on request.
 
 <!-- ### Footer
 
